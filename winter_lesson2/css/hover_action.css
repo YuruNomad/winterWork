@@ -1,0 +1,65 @@
+.companylogo:hover {
+  opacity: 0.7;
+}
+
+.header__menu--link:hover {
+  text-decoration: underline;
+}
+
+#header__search--button:hover {
+  opacity: 0.9;
+}
+
+.veterinarian__link--contact:hover {
+  color: #00bec9;
+  background-color: #ffffff;
+}
+
+.veterinarian__link--service:hover {
+  color: #fcc302;
+  background-color: #ffffff;
+}
+
+.animalsFisrt__link--service:hover {
+  color: #fcc302;
+  background-color: #ffffff;
+
+  border: 3px solid #fcc302;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.animalsSecond__link--service:hover {
+  color: #fcc302;
+  background-color: #ffffff;
+
+  border: 3px solid #fcc302;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.titlehereSecond__box--button:hover {
+  color: #00bec9;
+  background-color: #ffffff;
+}
+
+.vetcareteam__section--image:hover {
+  transform: scale(1.25);
+  transition: all 0.5s;
+}
+
+.post__box--link:hover {
+  text-decoration: underline;
+}
+
+.container__menu--link:hover {
+  text-decoration: underline;
+}
+
+#footer__search--button:hover {
+  opacity: 0.9;
+}
+.container__social--image:hover {
+  transform: scale(1.25);
+  transition: all 0.5s;
+}
